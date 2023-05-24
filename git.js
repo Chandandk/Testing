@@ -1,0 +1,1 @@
+console.log("Welcome ot javascript window")
